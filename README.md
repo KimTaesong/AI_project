@@ -1,3 +1,14 @@
 # AI_project
-2020_1학기 인공지능 
-케라스를 바탕으로 한 딥러닝 학습 DNN CNN RNN LSTM
+
+## 2020_1학기 인공지능
+
+#### keras를 바탕으로 한 딥러닝 학습 DNN CNN RNN LSTM<br>
+
+#### 심전도 데이터를 DNN과 LSTM으로 학습 평가 레포트
+
+1. 인공지능 HW1 - DNN
+2. 인공지능 HW2 - LSTM
+
+#### [인공지능HW1\_레포트.pdf](https://github.com/KimTaesong/AI_project/files/4935265/HW1_201501428_.pdf)
+
+#### [인공지능HW2\_레포트.pdf](https://github.com/KimTaesong/AI_project/files/4935266/HW2_201501428_.pdf)
